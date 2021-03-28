@@ -30,20 +30,20 @@ use : 'pip install InstaClient' To Install InstaClient
 
 
 # How To Use?
-# How To Use - textfollowunfollow
-To Use This Function You Need To Give InstaBot a TextFile, The Textfile should contant names and command todo. Example:
+  # How To Use - textfollowunfollow
+  To Use This Function You Need To Give InstaBot a TextFile, The Textfile should contant names and command todo. Example:
 
-'''
+  '''
 
-foo Follow
+  foo Follow
 
-bar Unfollow
+  bar Unfollow
 
-'''
+  '''
 
-# How To Use - whoUnfollowedMe
-To use whoUnfollowedMe You need to give InstaBot a textFile And Your target Username.
-the TextFile Should Containt the List Of Your Old Followers (like From a week ago or so ).
+  # How To Use - whoUnfollowedMe
+  To use whoUnfollowedMe You need to give InstaBot a textFile And Your target Username.
+  the TextFile Should Containt the List Of Your Old Followers (like From a week ago or so ).
 
 ###### Created By SepehrRasouli
 
