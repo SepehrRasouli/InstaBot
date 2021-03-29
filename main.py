@@ -147,7 +147,7 @@ class Main:
         nowDate = datetime.datetime.now()
         with open("%s.txt"%(name),"w") as file:
             file.write("Time : %s\n"% nowDate)
-            file.write("Names:")
+            file.write("Names:\n")
             for element in content:
                 file.write(element+"\n")
 
